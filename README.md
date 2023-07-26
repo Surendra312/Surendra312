@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Surendra312
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate in a python project
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate in a Javascript project
 - 📫 How to reach me k.surendrakumar230@gmail.com
 
 <!---
